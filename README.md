@@ -13,7 +13,7 @@ Setup Installation <br>
 Input and Output in python  <br>
 Conditionals & Loops <br>
 if-else   <br>
-loops    <br>
+loops .   <br>
 Switch statements   <br>
 Data-types   <br>
 Coding best practices   <br>
