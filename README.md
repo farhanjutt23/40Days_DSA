@@ -24,7 +24,7 @@ Shadowing   <br>
 Variable Length Arguments   <br>
 Overloading   <br>
 <h2>Arrays</h2>
-Introduction    <br>
+Introduction.    <br>
 Memory management   <br>
 Input and Output    <br>
 ArrayList Introduction    <br>
